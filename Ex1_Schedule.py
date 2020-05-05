@@ -178,7 +178,7 @@ def main():
     sqlConnect = sql()
     sqlConnect.schedule(30, LIST_TYPE1, LIST_TYPE2, LIST_TYPE3)
     sqlConnect.send_email()
-    a = "test"
+    a = "tes"
     a1 = "test"
 
 if __name__ == '__main__':
